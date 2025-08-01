@@ -1,0 +1,7 @@
+openai
+sentence_transformers
+matplotlib
+# sklearn
+scikit-learn
+numpy
+dotenv
