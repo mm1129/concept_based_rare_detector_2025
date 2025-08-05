@@ -30,9 +30,6 @@ Detected images including rare objects (detected from nuScenes[1] training set)
 Citations:
 [1] Caesar, Holger, et al. "nuscenes: A multimodal dataset for autonomous driving." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
 
-Acknowledgement
-
-I would like to express my sincere gratitude to Mr. Tanaka for his valuable advice and insightful suggestions throughout the course of this research.
 
 
 ---
