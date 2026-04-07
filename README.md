@@ -31,8 +31,11 @@ The paper is in \url{https://arxiv.org/pdf/2512.05482}.
 Detected images including rare objects (detected from nuScenes[1] training set)
 <!-- <img width="386" height="463" alt="image" src="https://github.com/user-attachments/assets/978c6fdd-cbbc-424a-87c5-0edb0edb8281" /> -->
 <img width="386" height="463" alt="image" src="detected_concept.png">
+
 Citations:
+
 [1] Caesar, Holger, et al. "nuscenes: A multimodal dataset for autonomous driving." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
+[2] Koh, Pang Wei, et al. "Concept bottleneck models." International conference on machine learning. PMLR, 2020.
 
 ## Disclaimer
 This code is released for academic reproducibility only. It is provided "as is" without any guarantee of support or maintenance.  
