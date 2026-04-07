@@ -3,8 +3,7 @@
 A cross-modal data‐mining pipeline that leverages 2D Vision–Language Models (VLMs) to mine rare and safety-critical objects from driving scenes, and uses them to improve 3D object detection performance on point-cloud data.  See details for "paper" folder.
 Implementation is in "projects/detect_rare_images". Main implementation: projects/detect_rare_images/vision-language-model-project
 
-The paper draft is in [this url](https://github.com/mm1129/concept_based_rare_detector_2025/blob/main/paper/), but final paper will be released on arxiv soon.
-
+The paper is in \url{https://arxiv.org/pdf/2512.05482}.
 
 **Key features**  
 - **Object Concept Embedding**:  
