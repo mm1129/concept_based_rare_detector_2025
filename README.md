@@ -24,9 +24,10 @@ The paper is in \url{https://arxiv.org/pdf/2512.05482}.
 <!-- <img width="441" height="261" alt="image" src="https://github.com/user-attachments/assets/3002008c-93eb-48bd-a9c6-c51636108e53" />
 <img width="624" height="289" alt="image" src="https://github.com/user-attachments/assets/89e869aa-109b-4c80-9c05-2f957582c1d4" />
 <img width="634" height="550" alt="image" src="https://github.com/user-attachments/assets/0f0042cb-abe7-4a24-a795-6a12cd928f57" /> -->
-<img width="441" height="261" alt="image" src="fig3_concept.png">
-<img width="634" height="550" alt="image" src="fig2_concept.png">
-<img width="441" height="261" alt="image" src="fig1_concept.png">
+<img alt="image" src="fig3_concept.png">
+<img alt="image" src="fig2_concept.png">
+<img alt="image" src="fig1_concept.png">
+
 Detected images including rare objects (detected from nuScenes[1] training set)
 <!-- <img width="386" height="463" alt="image" src="https://github.com/user-attachments/assets/978c6fdd-cbbc-424a-87c5-0edb0edb8281" /> -->
 <img width="386" height="463" alt="image" src="detected_concept.png">
